@@ -19,14 +19,14 @@ Average surface temperature
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/mars/mars.jpg">
-		<img src="/uploads/planets/mars/mars.jpg" alt="drawing"/>
+		<img src="/uploads/planets/mars/mars.jpg" alt="Mars"/>
 	</a>
 	<div class="desc">Mars<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/mars/mars.jpg">
-		<img src="/uploads/planets/mars/mars_true.jpg" alt="drawing"/>
+		<img src="/uploads/planets/mars/mars_true.jpg" alt="Mars Atmosphere"/>
 	</a>
-	<div class="desc">Mars<br><font size="1">- Credit, NASA</font></div>
+	<div class="desc">Mars Atmosphere<br><font size="1">- Credit, NASA</font></div>
 </div>
