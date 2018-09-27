@@ -84,8 +84,8 @@ Average surface temperature
 </div>
 
 <div class="gallery">
-	<a target="_blank" href="/uploads/planets/jupiter/Jupiter South Pole.jpg">
-<img src="/uploads/planets/jupiter/Jupiter South Pole.jpg" alt="Jupiter South Pole"/>
+	<a target="_blank" href="/uploads/planets/jupiter/jupiter-south-pole.jpg">
+<img src="/uploads/planets/jupiter/jupiter-south-pole.jpg" alt="Jupiter South Pole"/>
 </a>
 	<div class="desc">Jupiter South Pole<br><font size="1">- Credit, NASA</font></div>
 </div>
