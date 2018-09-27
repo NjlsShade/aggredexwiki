@@ -1,7 +1,7 @@
 <!-- TITLE: Earth -->
 <!-- SUBTITLE: A planet in the Sun Star System -->
 
-<div class="gallery" style="float: right;">
+<div class="gallery" style="float: right; top: 0;">
 	<a target="_blank" href="/uploads/planets/earth/earth.jpg">
 <img src="/uploads/planets/earth/earth.jpg" alt="Earth"/>
 </a>
