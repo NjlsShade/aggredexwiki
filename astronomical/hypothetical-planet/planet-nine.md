@@ -6,6 +6,18 @@ Around 10 times the mass of Earth and 20 times farther from the sun than Neptune
 
 The existence of this suggested ninth planet is purely based on mathematic evidence and has never been detected in real world measurements, with it being placed at over 60 AU from the sun, it is possible we wont find any solid proof of its being any time soon.
 
+# Data
+```text
+Distance from Sol
+~60 AU
+
+Average surface temperature
+Unknown
+
+Population
+0
+```
+
 # Images
 <link rel="stylesheet" href="/uploads/css/core.css">
 
