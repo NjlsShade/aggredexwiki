@@ -66,7 +66,8 @@ The magnetic field is what causes compass needles to point to the North Pole reg
 
 ```text
 Distance from [origin]
-92.96 million mi
+149,600,000 km
+~1AU
 
 Average surface temperature
 15°C (59°F)
