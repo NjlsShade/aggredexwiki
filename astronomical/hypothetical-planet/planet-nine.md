@@ -27,3 +27,10 @@ Population
 </a>
 	<div class="desc">Planet Nine<br><font size="1">Artists Depiction</font></div>
 </div>
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/nine/chart.png">
+<img src="/uploads/planets/nine/chart.png" alt="Planet Nine Orbit"/>
+</a>
+	<div class="desc">Planet Nine<br><font size="1">Orbital Path</font></div>
+</div>
