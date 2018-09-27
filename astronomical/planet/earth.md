@@ -5,7 +5,7 @@
 	<a target="_blank" href="/uploads/planets/earth/earth.jpg">
 <img src="/uploads/planets/earth/earth.jpg" alt="Earth"/>
 </a>
-	<div class="desc">Earth<br><font size="1">- Credit, NASA</font></div>
+	<div class="hdesc">Earth<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 # About
