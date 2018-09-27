@@ -85,14 +85,14 @@ Average surface temperature
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/jupiter/Jupiter South Pole.jpg">
-<img src="/uploads/planets/jupiter/jupiter_global_caption.png" alt="Jupiter South Pole"/>
+<img src="/uploads/planets/jupiter/Jupiter South Pole.jpg" alt="Jupiter South Pole"/>
 </a>
 	<div class="desc">Jupiter South Pole<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/jupiter/jupiter-aurora.jpg">
-<img src="/uploads/planets/jupiter/jupiter_global_caption.png" alt="Jupiter Aurora"/>
+<img src="/uploads/planets/jupiter/jupiter-aurora.jpg" alt="Jupiter Aurora"/>
 </a>
 	<div class="desc">Jupiter Aurora<br><font size="1">- Credit, NASA</font></div>
 </div>
