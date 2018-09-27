@@ -91,7 +91,7 @@ Population
 	<a target="_blank" href="/uploads/planets/earth/tokyo.jpg">
 <img src="/uploads/planets/earth/tokyo.jpg" alt="Tokyo City"/>
 </a>
-	<div class="desc">Tokyo City<br><font size="1">-</font></div>
+	<div class="desc">Tokyo<br><font size="1">City</font></div>
 </div>
 
 <div class="gallery">
