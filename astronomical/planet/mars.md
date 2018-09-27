@@ -25,7 +25,7 @@ Average surface temperature
 </div>
 
 <div class="gallery">
-	<a target="_blank" href="/uploads/planets/mars/mars.jpg">
+	<a target="_blank" href="/uploads/planets/mars/mars_true.jpg">
 		<img src="/uploads/planets/mars/mars_true.jpg" alt="Mars Atmosphere"/>
 	</a>
 	<div class="desc">Mars Atmosphere<br><font size="1">- Credit, NASA</font></div>
