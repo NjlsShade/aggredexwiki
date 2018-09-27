@@ -4,7 +4,7 @@
 # About
 The barycenter, or [Origin](/mathematics/origin) if being used to regard the orbital point of a Star System, is a location that exists at the median of an object or representative's mass.
 
-In the Sol Star System, the two largest instances, Jupiter and sun itself, create a barycenter between their masses. This center mass is a short distance away from the sun and is hard to detect.
+In the Sol Star System, the two largest instances, Jupiter and Sol, create a barycenter between their masses. This center mass is a short distance away from the sun and is hard to detect.
 
 # Images
 <link rel="stylesheet" href="/uploads/css/core.css">
