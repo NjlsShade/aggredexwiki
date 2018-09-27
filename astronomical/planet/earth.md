@@ -101,6 +101,12 @@ Population
 	<div class="desc">SpaceX Launch Complex 40<br><font size="1">US Space Port</font></div>
 </div>
 
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/earth/nasa-kennedy-space-center.jpg">
+<img src="/uploads/planets/earth/nasa-kennedy-space-center.jpg" alt="NASA Kennedy Space Center"/>
+</a>
+	<div class="desc">NASA Kennedy Space Center<br><font size="1">US Space Port</font></div>
+</div>
 
 
 
