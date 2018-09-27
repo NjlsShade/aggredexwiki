@@ -12,10 +12,10 @@ Distance from [origin]
 ~9.358421971176 AU
 
 Average surface temperature
-15°C (59°F)
+-179°C (-290°F)
 
 Population
-7.442 billion (as of 2016)
+0
 ```
 
 
