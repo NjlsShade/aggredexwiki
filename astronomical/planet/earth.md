@@ -82,10 +82,27 @@ Population
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/earth/earth.jpg">
-<img src="/uploads/planets/earth/earth.jpg" alt="drawing"/>
+<img src="/uploads/planets/earth/earth.jpg" alt="Earth"/>
 </a>
 	<div class="desc">Earth<br><font size="1">- Credit, NASA</font></div>
 </div>
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/earth/tokyo.jpg">
+<img src="/uploads/planets/earth/tokyo.jpg" alt="Tokyo City"/>
+</a>
+	<div class="desc">Tokyo City<br><font size="1">-</font></div>
+</div>
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/earth/spacex-launch-complex-40.jpg">
+<img src="/uploads/planets/earth/spacex-launch-complex-40.jpg" alt="SpaceX Launch Complex 40"/>
+</a>
+	<div class="desc">SpaceX Launch Complex 40<br><font size="1">US Space Port</font></div>
+</div>
+
+
+
 
 
 # Sources
