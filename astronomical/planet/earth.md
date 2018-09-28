@@ -77,7 +77,7 @@ Distance from [origin]
 ~1 AU
 
 Mass
-5.972 × 10^24 kg
+5.972 × 10^24 (5.972e+24) kg
 
 Average surface temperature
 15°C (59°F)
