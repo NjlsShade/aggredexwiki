@@ -6,6 +6,13 @@ The barycenter, or [Origin](/mathematics/origin) if being used to regard the orb
 
 In the Sol Star System, the two largest instances, Jupiter and Sol, create a barycenter between their masses. This center mass is a short distance away from the sun and is hard to detect.
 
+# Formula
+
+```text
+m2 / m1 + m2 (d)
+```
+
+
 # Images
 <link rel="stylesheet" href="/uploads/css/core.css">
 
