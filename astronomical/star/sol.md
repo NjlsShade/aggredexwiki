@@ -69,7 +69,7 @@ Distance from origin
 0 Astronomical Units
 
 Mass
-1.989 × 10^30 kg
+1.989 × 10^30 (1.989e+30) kg
 
 Average surface temperature
 5,778 K
