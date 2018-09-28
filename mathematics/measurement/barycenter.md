@@ -9,7 +9,7 @@ In the Sol Star System, the two largest instances, Jupiter and Sol, create a bar
 # Formula
 
 ```text
-m2 / m1 + m2 (d)
+m2 / (m1 + m2) (d)
 ```
 
 
