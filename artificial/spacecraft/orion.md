@@ -1,0 +1,7 @@
+<!-- TITLE: Orion -->
+<!-- SUBTITLE: A quick summary of Orion -->
+
+# About
+For the first time in a generation, NASA is building a human spacecraft for deep-space missions that will usher in a new era of space exploration. A series of increasingly challenging missions awaits, and this new spacecraft will take us farther than we’ve gone before, including to the vicinity of the Moon and Mars. Named after one of the largest constellations in the night sky and drawing from more than 50 years of spaceflight research and development, the Orion spacecraft is designed to meet the evolving needs of our nation’s deep space exploration program for decades to come. Orion deep space exploration missions, coupled with record levels of private investment in space, will help put NASA and America in a position to unlock the mysteries of space and to ensure this nation’s world preeminence in exploring the cosmos.
+
+Orion will serve as the exploration vehicle that will carry the crew to space, provide emergency abort capability, sustain astronauts during their missions and provide safe re-entry from deep space return velocities. Orion missions will launch from NASA’s modernized spaceport at Kennedy Space Center in Florida on the agency’s new, powerful heavy-lift rocket, the Space Launch System. On the first integrated mission, Exploration Mission-1, an uncrewed Orion will venture thousands of miles beyond the Moon over the course of about three weeks. The mission will pave the way for flights with astronauts beginning in the early 2020s.
