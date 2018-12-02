@@ -2,10 +2,10 @@
 <!-- SUBTITLE: A planet in the Sun Star System -->
 
 <div class="header">
-	<a target="_blank" href="/uploads/planets/earth/earth.jpg">
-<img src="/uploads/planets/earth/earth.jpg" alt="Earth"/>
+	<a target="_blank" href="/uploads/planets/jupiter/jupiter_global_caption.png">
+<img src="/uploads/planets/jupiter/jupiter_global_caption.png" alt="Jupiter"/>
 </a>
-	<div class="hdesc">Earth<br><font size="1">- Credit, NASA</font></div>
+	<div class="hdesc">Jupiter<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 # About
@@ -78,13 +78,6 @@ Average surface temperature
 
 # Images
 <link rel="stylesheet" href="/uploads/css/core.css">
-
-<div class="gallery">
-	<a target="_blank" href="/uploads/planets/jupiter/jupiter_global_caption.png">
-<img src="/uploads/planets/jupiter/jupiter_global_caption.png" alt="drawing"/>
-</a>
-	<div class="desc">Jupiter<br><font size="1">- Credit, NASA</font></div>
-</div>
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/jupiter/jupiter_carousel.jpg">
