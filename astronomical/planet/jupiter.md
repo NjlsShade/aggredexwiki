@@ -1,6 +1,12 @@
 <!-- TITLE: Jupiter -->
 <!-- SUBTITLE: A planet in the Sun Star System -->
 
+<div class="header">
+	<a target="_blank" href="/uploads/planets/earth/earth.jpg">
+<img src="/uploads/planets/earth/earth.jpg" alt="Earth"/>
+</a>
+	<div class="hdesc">Earth<br><font size="1">- Credit, NASA</font></div>
+</div>
 # About
 Located in the Sun Star System, Jupiter is the fifth planet in the barycenter orbit with [Sun](/astronomical/star/sun), it completes its orbit in about ten hours.
 
