@@ -24,8 +24,8 @@ Average surface temperature
 <link rel="stylesheet" href="/uploads/css/core.css">
 
 <div class="gallery">
-	<a target="_blank" href="/uploads/planets/earth/tokyo.jpg">
-<img src="/uploads/planets/earth/tokyo.jpg" alt="Tokyo City"/>
+	<a target="_blank" href="/uploads/planets/neptune/neptune_clouds.jpg">
+<img src="/uploads/planets/neptune/neptune_clouds.jpg" alt="Neptune's Clouds"/>
 </a>
 	<div class="desc">Neptune's Clouds<br><font size="1">- Credit, NASA</font></div>
 </div>
