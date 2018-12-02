@@ -13,7 +13,7 @@
 # Data
 
 ```text
-Distance from origin
+Distance from [origin]
 30.05 Astronomical Units (2.793 billion mi)
 
 Average surface temperature
