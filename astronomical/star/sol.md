@@ -2,8 +2,8 @@
 <!-- SUBTITLE: A star in the Milky Way galaxy -->
 
 <div class="header">
-	<a target="_blank" href="/uploads/stars/sol/timelapse_sol_low.jpg">
-<img src="/uploads/stars/sol/timelapse_sol.jpg" alt="Sol"/>
+	<a target="_blank" href="/uploads/stars/sol/timelapse_sol.jpg">
+<img src="/uploads/stars/sol/timelapse_sol_low.jpg" alt="Sol"/>
 </a>
 	<div class="hdesc">Sol<br><font size="1">- Credit, NASA</font></div>
 </div>
