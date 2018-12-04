@@ -2,8 +2,8 @@
 <!-- SUBTITLE: A planet in the Sun Star System -->
 
 <div class="header">
-	<a target="_blank" href="/uploads/planets/venus/venus_ir.jpg">
-<img src="/uploads/planets/venus/venus_ir.jpg" alt="Venus"/>
+	<a target="_blank" href="/uploads/planets/venus/venus_true.jpg">
+<img src="/uploads/planets/venus/venus_true.jpg" alt="Venus"/>
 </a>
 	<div class="hdesc">Venus<br><font size="1">- Credit, NASA</font></div>
 </div>
@@ -31,16 +31,23 @@ Average surface temperature
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/venus/venus.jpg">
-		<img src="/uploads/planets/venus/venus.jpg" alt="drawing"/>
+		<img src="/uploads/planets/venus/venus.jpg" alt="Venus"/>
 	</a>
 	<div class="desc">Venus<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 <div class="gallery">
 	<a target="_blank" href="/uploads/planets/venus/venus-radar.jpg">
-		<img src="/uploads/planets/venus/venus_radar.jpg" alt="drawing"/>
+		<img src="/uploads/planets/venus/venus_radar.jpg" alt="Venus"/>
 	</a>
 	<div class="desc">Venus radar view<br><font size="1">- Credit, NASA</font></div>
+</div>
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/venus/venus_ir.jpg">
+<img src="/uploads/planets/venus/venus_ir.jpg" alt="Venus"/>
+</a>
+	<div class="hdesc">Venus IR<br><font size="1">- Credit, NASA</font></div>
 </div>
 
 # Sources
