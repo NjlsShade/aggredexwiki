@@ -3,7 +3,7 @@
 
 <div class="header">
 	<a target="_blank" href="/uploads/stars/sol/timelapse_sol_low.jpg">
-<img src="/uploads/planets/stars/timelapse_sol.jpg" alt="Sol"/>
+<img src="/uploads/stars/timelapse_sol.jpg" alt="Sol"/>
 </a>
 	<div class="hdesc">Sol<br><font size="1">- Credit, NASA</font></div>
 </div>
