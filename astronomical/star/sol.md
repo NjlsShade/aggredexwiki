@@ -91,6 +91,15 @@ Distance from Earth
 92.92 million miles | 149.60 million kilometers | 1 astronomical unit
 ```
 
+# images
+<link rel="stylesheet" href="/uploads/css/core.css">
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/planets/stars/">
+<img src="/uploads/planets/stars/" alt="Sol"/>
+</a>
+	<div class="desc">Sol<br><font size="1">- Credit, NASA</font></div>
+</div>
 
 # Sources
 solarsystem.nasa.gov
