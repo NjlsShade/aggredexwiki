@@ -1,7 +1,7 @@
 <!-- TITLE: Jupiter -->
 <!-- SUBTITLE: A planet in the Sun Star System -->
 
-<div class="header" style="background: url("/uploads/planets/jupiter/jupiter_carousel.jpg");">
+<div class="header">
 	<a target="_blank" href="/uploads/planets/jupiter/jupiter_global_caption.png">
 <img src="/uploads/planets/jupiter/jupiter_global_caption.png" alt="Jupiter"/>
 </a>
