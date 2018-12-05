@@ -16,8 +16,15 @@ The International Space Station, or ISS
 <link rel="stylesheet" href="/uploads/css/core.css">
 
 <div class="gallery">
-	<a target="_blank" href="/uploads/satellites/ISS/">
-<img src="/uploads/satellites/ISS/" alt="International Space Station"/>
+	<a target="_blank" href="/uploads/satellites/ISS/iss_full.jpg">
+<img src="/uploads/satellites/ISS/iss_full.jpg" alt="International Space Station"/>
+</a>
+	<div class="desc">International Space Station<br><font size="1">- Credit, NASA</font></div>
+</div>
+
+<div class="gallery">
+	<a target="_blank" href="/uploads/satellites/ISS/iss_top.jpg">
+<img src="/uploads/satellites/ISS/iss_full.jpg" alt="International Space Station"/>
 </a>
 	<div class="desc">International Space Station<br><font size="1">- Credit, NASA</font></div>
 </div>
