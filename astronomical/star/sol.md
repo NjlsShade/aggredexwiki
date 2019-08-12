@@ -2,7 +2,7 @@
 title: Sol
 description: A star in the Milky Way galaxy
 published: 1
-date: 2019-08-12T20:03:56.544Z
+date: 2019-08-12T20:18:19.698Z
 tags: 
 ---
 

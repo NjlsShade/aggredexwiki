@@ -2,7 +2,7 @@
 title: Jupiter
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-12T20:03:40.935Z
+date: 2019-08-12T20:18:04.914Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Neptune
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-12T20:03:45.663Z
+date: 2019-08-12T20:18:09.249Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Mathematics
 description: A quick summary of Mathematics
 published: 1
-date: 2019-08-12T20:02:40.772Z
+date: 2019-08-12T20:17:09.238Z
 tags: 
 ---
 

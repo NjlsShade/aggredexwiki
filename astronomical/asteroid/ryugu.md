@@ -2,7 +2,7 @@
 title: Ryugu
 description: A quick summary of Ryugu
 published: 1
-date: 2019-08-12T20:03:18.662Z
+date: 2019-08-12T20:17:41.757Z
 tags: 
 ---
 

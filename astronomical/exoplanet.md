@@ -2,7 +2,7 @@
 title: Exoplanet (Legacy)
 description: A planet outside of the Sun Star System
 published: 1
-date: 2019-08-12T20:02:51.277Z
+date: 2019-08-12T20:17:20.162Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Uranus
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-12T20:03:48.556Z
+date: 2019-08-12T20:18:12.372Z
 tags: 
 ---
 
