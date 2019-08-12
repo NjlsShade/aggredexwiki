@@ -1,5 +1,10 @@
-<!-- TITLE: Luna -->
-<!-- SUBTITLE: Moon -->
+---
+title: Luna
+description: Moon
+published: 1
+date: 2019-08-12T19:28:40.032Z
+tags: 
+---
 
 # About
 Earth's Moon is the only place beyond Earth where humans have set foot, so far. The brightest and largest object in our night sky, the Moon makes Earth a more livable planet by moderating our home planet's wobble on its axis, leading to a relatively stable climate. It also causes tides, creating a rhythm that has guided humans for thousands of years. The Moon was likely formed after a Mars-sized body collided with Earth several billion years ago.
