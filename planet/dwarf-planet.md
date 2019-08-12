@@ -2,7 +2,7 @@
 title: Dwarf Planet
 description: Fails to hold one or more of the three planetary requirements
 published: 1
-date: 2019-08-12T19:28:13.994Z
+date: 2019-08-12T19:47:54.702Z
 tags: 
 ---
 

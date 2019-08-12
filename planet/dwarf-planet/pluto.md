@@ -2,7 +2,7 @@
 title: Pluto
 description: A dwarf planet in the Sun Star System
 published: 1
-date: 2019-08-12T19:28:51.992Z
+date: 2019-08-12T19:49:03.883Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Laniakea
 description: Supercluster
 published: 1
-date: 2019-08-12T19:28:41.486Z
+date: 2019-08-12T19:48:52.252Z
 tags: 
 ---
 

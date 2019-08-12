@@ -2,7 +2,7 @@
 title: Astronomical Unit
 description: A unit of measurement
 published: 1
-date: 2019-08-12T19:28:42.948Z
+date: 2019-08-12T19:48:55.014Z
 tags: 
 ---
 

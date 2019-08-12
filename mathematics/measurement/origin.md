@@ -2,7 +2,7 @@
 title: Origin
 description: Base of measurement
 published: 1
-date: 2019-08-12T19:28:47.522Z
+date: 2019-08-12T19:48:59.348Z
 tags: 
 ---
 

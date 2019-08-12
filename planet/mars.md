@@ -2,7 +2,7 @@
 title: Mars
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-12T19:28:15.528Z
+date: 2019-08-12T19:47:56.239Z
 tags: 
 ---
 

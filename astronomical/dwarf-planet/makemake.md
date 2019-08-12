@@ -2,7 +2,7 @@
 title: Makemake
 description: A dwarf planet in the Sun Star System
 published: 1
-date: 2019-08-12T19:28:25.605Z
+date: 2019-08-12T19:48:12.956Z
 tags: 
 ---
 
