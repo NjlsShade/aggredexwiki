@@ -2,7 +2,7 @@
 title: Barycenter
 description: Center of mass
 published: 1
-date: 2019-08-12T19:48:56.507Z
+date: 2019-08-12T20:04:05.544Z
 tags: 
 ---
 
