@@ -2,14 +2,14 @@
 title: Earth
 description: A planet in the Sol Star System
 published: 1
-date: 2019-08-13T03:53:04.151Z
+date: 2019-08-13T17:19:10.818Z
 tags: 
 ---
 
 # About
 Located in the [Sol Star System](/astronomical/star-system/sol-star-system), Earth is the third planet in the [barycenter](/mematics/measurement/barycenter) orbit with [Sol](/astronomical/star/sol), it completes its orbit in about `365.26 days`, or one [Earth year]. Earth is the only known celestial object to harbor life and is believed to be over `4.5 billion years` old.
 
-Earth is the fifth largest planet in the solar system and the only world known to have liquid water on the surface. With just a 320 kilometer advantage radius over nearby Venus, Earth is the biggest of the four planets closest to Sol, all of which are made of rock and metal.
+Earth is the fifth largest planet in the solar system and the only world known to have liquid water on the surface. With just a mean `319.2 kilometer` advantage radius over nearby Venus, Earth is the biggest of the four planets closest to Sol, all of which are made of rock and metal.
 
 Earth's axis of rotation is tilted in regard to its plane of orbit, producing seasons; Earth rotates about this axis around `366.26 times` in an Earth year.
 
