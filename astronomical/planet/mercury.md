@@ -2,21 +2,21 @@
 title: Mercury
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-13T14:04:36.153Z
+date: 2019-08-13T14:33:27.888Z
 tags: 
 ---
 
 # About
-Located in the [Sol Star System](/astronomical/star-system/sol-star-system), Mercury is the first planet in the barycenter orbit with [Sol](/astronomical/star/sol). It is the smallest true planet in our System and also holds the shortest orbit around the Sun at `87.97 days`.
+Located in the [Sol Star System](/astronomical/star-system/sol-star-system), Mercury is the first planet in the barycenter orbit with [Sol](/astronomical/star/sol). It is the smallest true planet in our System and also holds the shortest orbit around its sun at `87.97 days`.
 
-Mercury does not have an atmosphere so the temperature changes dramatically based on whether a given location is facing Sun.
+Mercury does not have an atmosphere so the temperature changes dramatically based on whether a given location is facing its sun.
 
 
 # Data
 
 ```text
 Distance from [origin]
-35.98 million mi from sun
+35.98 million mi
 
 Average surface temperature
 High:430 °C (800 °F)
