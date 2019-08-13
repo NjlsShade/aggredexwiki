@@ -2,7 +2,7 @@
 title: Luna
 description: Moon
 published: 1
-date: 2019-08-12T20:17:59.943Z
+date: 2019-08-13T02:34:48.787Z
 tags: 
 ---
 
@@ -13,9 +13,9 @@ Earth's only natural satellite is simply called "the Moon" because people didn't
 
 
 # Size and Distance
-With a radius of 1,079.6 miles (1,737.5 kilometers), the moon is less than a third the width of Earth. If Earth were the size of a nickel, the moon would be about as big as a coffee bean.
+With a radius of `1,079.6 miles` (1,737.5 kilometers), the moon is less than a third the width of Earth. If Earth were the size of a nickel, the moon would be about as big as a coffee bean.
 
-The moon is farther away from Earth than most people realize. The moon is an average of 238,855 miles (384,400 kilometers) away. That means 30 Earth-sized planets could fit in between Earth and the moon.
+The moon is farther away from Earth than most people realize. The moon is an average of `238,855 miles` (384,400 kilometers) away. That means 30 Earth-sized planets could fit in between Earth and the moon.
 
 The moon is slowly moving away from Earth, getting about an inch farther away each year.
 
@@ -25,21 +25,21 @@ The moon is rotating at the same rate that it revolves around Earth (called sync
 The moon makes a complete orbit around Earth in 27 Earth days and rotates or spins at that same rate, or in that same amount of time. Because Earth is moving as well &mdash; rotating on its axis as it orbits the sun &mdash; from our perspective, the moon appears to orbit us every 29 days.
 
 # Formation
-The leading theory of the moon's origin is that a Mars-sized body collided with Earth about 4.5 billion years ago. The resulting debris from both Earth and the impactor accumulated to form our natural satellite 239,000 miles (384,000 kilometers) away. The newly formed moon was in a molten state, but within about 100 million years, most of the global "magma ocean" had crystallized, with less-dense rocks floating upward and eventually forming the lunar crust.
+The leading theory of the moon's origin is that a Mars-sized body collided with Earth about `4.5 billion years` ago. The resulting debris from both Earth and the impactor accumulated to form our natural satellite `239,000 miles` (384,000 kilometers) away. The newly formed moon was in a molten state, but within about 100 million years, most of the global "magma ocean" had crystallized, with less-dense rocks floating upward and eventually forming the lunar crust.
 
 # Structure
 Earth's moon has a core, mantle and crust.
 
-The moon’s core is proportionally smaller than other terrestrial bodies' cores. The solid, iron-rich inner core is 149 miles (240 kilometers) in radius. It is surrounded by a liquid iron shell 56 miles (90 kilometers) thick. A partially molten layer with a thickness of 93 miles (150 kilometers) surrounds the iron core.
+The moon’s core is proportionally smaller than other terrestrial bodies' cores. The solid, iron-rich inner core is `149 miles` (240 kilometers) in radius. It is surrounded by a liquid iron shell `56 miles` (90 kilometers) thick. A partially molten layer with a thickness of 93 miles (150 kilometers) surrounds the iron core.
 
 The mantle extends from the top of the partially molten layer to the bottom of the moon’s crust. It is most likely made of minerals like olivine and pyroxene, which are made up of magnesium, iron, silicon and oxygen atoms.
 
-The crust has a thickness of about 43 miles (70 kilometers) on the moon’s near-side hemisphere and 93 miles (150 kilometers) on the far-side. It is made of oxygen, silicon, magnesium, iron, calcium and aluminum, with small amounts of titanium, uranium, thorium, potassium and hydrogen.
+The crust has a thickness of about `43 miles` (70 kilometers) on the moon’s near-side hemisphere and 93 miles (150 kilometers) on the far-side. It is made of oxygen, silicon, magnesium, iron, calcium and aluminum, with small amounts of titanium, uranium, thorium, potassium and hydrogen.
 
 Long ago the moon had active volcanoes, but today they are all dormant and have not erupted for millions of years.
 
 # Surface
-With too sparse an atmosphere to impede impacts, a steady rain of asteroids, meteoroids and comets strikes the surface of the moon, leaving numerous craters behind. Tycho Crater is more than 52 miles (85 kilometers) wide.
+With too sparse an atmosphere to impede impacts, a steady rain of asteroids, meteoroids and comets strikes the surface of the moon, leaving numerous craters behind. Tycho Crater is more than `52 miles` (85 kilometers) wide.
 
 Over billions of years, these impacts have ground up the surface of the moon into fragments ranging from huge boulders to powder. Nearly the entire moon is covered by a rubble pile of charcoal-gray, powdery dust and rocky debris called the lunar regolith. Beneath is a region of fractured bedrock referred to as the megaregolith.
 
