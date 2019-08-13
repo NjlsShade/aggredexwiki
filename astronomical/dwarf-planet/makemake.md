@@ -1,15 +1,15 @@
 ---
 title: Makemake
-description: A dwarf planet in the Sun Star System
+description: A dwarf planet in the Sol Star System
 published: 1
 date: 2019-08-12T20:17:43.329Z
-tags: 
+tags:
 ---
 
 # About
-Located in the [Sun Star System](/astronomical/star-system/sun-star-system), Makemake
+Located in the [Sol Star System](/astronomical/star-system/sol-star-system), Makemake
 # NASA
-Along with fellow dwarf planets Pluto, Eris, and Haumea, Makemake is located in the Kuiper Belt, a region outside the orbit of Neptune. Slightly smaller than Pluto, Makemake is the second brightest object in the Kuiper Belt as seen from Earth (while Pluto is the brightest). It takes about 305 Earth years for this dwarf planet to make one trip around the sun.
+Along with fellow dwarf planets Pluto, Eris, and Haumea, Makemake is located in the Kuiper Belt, a region outside the orbit of Neptune. Slightly smaller than Pluto, Makemake is the second brightest object in the Kuiper Belt as seen from Earth (while Pluto is the brightest). It takes about 305 Earth years for this dwarf planet to make one trip around Sol.
 
 Makemake holds an important place in the history of solar system studies because it, along with Eris, was one of the objects whose discovery prompted the International Astronomical Union to reconsider the definition of a planet and to create the new group of dwarf planets.
 
@@ -25,11 +25,11 @@ Makemake was discovered on Mar. 31, 2005 by M.E. Brown, C.A. Trujillo, and D. Ra
 Makemake has a radius of approximately `444 miles` (715 kilometers), Makemake is 1/9 the radius of Earth.
 [Exampile image here]
 
-Makemake is `45.8 astronomical units` away from the sun, or `4,253,000,000 miles` (6,847,000,000 kilometers). From this distance it takes sunlight 6 hours and 20 minutes to travel from the sun to Makemake.
+Makemake is `45.8 astronomical units` away from the Sol System's barycenter, or `4,253,000,000 miles` (6,847,000,000 kilometers). From this distance it takes sunlight 6 hours and 20 minutes to travel from Sol to Makemake.
 
 
 # Orbit and Rotation
-Makemake takes 305 Earth years to make one trip around the sun. As Makemake orbits the sun, it completes one rotation every 22.5 hours, making its day length similar to ours.
+Makemake takes 305 Earth years to make one trip around the Sol System. As Makemake orbits, it completes one rotation every 22.5 hours, making its day length similar to ours.
 
 
 # Formation
@@ -45,7 +45,7 @@ We can't see too many details of Makemake's surface from so far away, but it doe
 
 
 # Atmosphere
-Makemake may develop a very thin atmosphere, most likely made of nitrogen, near perihelion &mdash; when it is closest to the sun.
+Makemake may develop a very thin atmosphere, most likely made of nitrogen, near perihelion &mdash; when it is closest to its sun.
 
 
 # Potential for Life
