@@ -1,8 +1,8 @@
 ---
 title: Earth
-description: A planet in the Sun Star System
+description: A planet in the Sol Star System
 published: 1
-date: 2019-08-13T03:27:14.900Z
+date: 2019-08-13T03:29:35.182Z
 tags: 
 ---
 
