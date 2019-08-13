@@ -2,7 +2,7 @@
 title: Mercury
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-13T14:33:27.888Z
+date: 2019-08-13T14:34:45.358Z
 tags: 
 ---
 
@@ -28,10 +28,10 @@ None
 
 
 # Images
-<link rel="stylesheet" href="/uploads/css/core.css">
+<link rel="stylesheet" href="/css/core.css">
 
 <div class="gallery">
-	<a target="_blank" href="/uploads/planets/mercury/mercury-color.jpg">
+	<a target="_blank" href="/planets/mercury/mercury-color.jpg">
 		<img src="/uploads/planets/mercury/mercury-color.jpg" alt="drawing"/>
 	</a>
 	<div class="desc">Mercury<br><font size="1">- Credit, NASA</font></div>
