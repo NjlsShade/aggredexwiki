@@ -2,7 +2,7 @@
 title: Earth
 description: A planet in the Sun Star System
 published: 1
-date: 2019-08-12T20:18:03.032Z
+date: 2019-08-13T03:18:04.386Z
 tags: 
 ---
 
@@ -80,7 +80,7 @@ Population
 7.442 billion (as of 2016)
 ```
 
-
+![earth.jpg](/planets/earth/earth.jpg)
 # Images
 <link rel="stylesheet" href="/uploads/css/core.css">
 
